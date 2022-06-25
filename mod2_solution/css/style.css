@@ -5,6 +5,7 @@
 body{
     margin: 0px;
     padding: 0px;
+    font-size: 110%;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -18,7 +19,6 @@ h2{
 
 .row{
     width: 85%;
-    min-height: 600px;
     margin: auto;
     text-align: center;
 }
